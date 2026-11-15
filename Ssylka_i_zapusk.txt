@@ -2,6 +2,7 @@
 Вафин О.Э., Юрьев В.О.
 
 Репозиторий: https://github.com/SplinYT/Transparency-code-TortTeam
+Видеоролик: https://drive.google.com/file/d/1xdpKQ4kqv-JZt4tNYRbHjTF7fb7nQGqa/view?usp=sharing
 
 Требования: Python 3.10 или новее; современный браузер.
 Сторонние пакеты и ключи API не требуются.
