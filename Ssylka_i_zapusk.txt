@@ -1,0 +1,19 @@
+ЗакупКонтроль — TortTeam
+Вафин О.Э., Юрьев В.О.
+
+Репозиторий: https://github.com/SplinYT/Transparency-code-TortTeam
+
+Требования: Python 3.10 или новее; современный браузер.
+Сторонние пакеты и ключи API не требуются.
+
+1. Скачайте и распакуйте репозиторий.
+2. Перейдите в папку prototype.
+3. Windows: start_windows.bat или py -3 server.py.
+   Linux/macOS: python3 server.py.
+4. Откройте http://127.0.0.1:8765.
+5. Нажмите «Загрузить демоданные».
+6. Проверьте: 40 закупок, 24 сигнала, Z001 — 100 баллов.
+7. Перед завершением экспортируйте JSON.
+
+Проверки: из prototype выполнить python3 -m unittest -v
+(Windows: py -3 -m unittest -v).

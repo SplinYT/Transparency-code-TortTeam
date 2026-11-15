@@ -1,0 +1,1110 @@
+{
+  "version": "1.0",
+  "fingerprint": "b00ff52d8426d0f47922c6b77db798f427703aaa3c58055e8e73c6ba27b09a2d",
+  "total": 40,
+  "review": 24,
+  "rows": [
+    {
+      "id": "Z001",
+      "buyer": "Заказчик 1",
+      "supplier": "Поставщик 1А",
+      "category": "Канцелярия",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "100000",
+      "contract_price": "100000",
+      "bidders": "1",
+      "score": 100,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 2
+    },
+    {
+      "id": "Z007",
+      "buyer": "Заказчик 1",
+      "supplier": "Поставщик 1А",
+      "category": "Канцелярия",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "160000",
+      "contract_price": "160000",
+      "bidders": "1",
+      "score": 100,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 2
+    },
+    {
+      "id": "Z011",
+      "buyer": "Заказчик 2",
+      "supplier": "Поставщик 2А",
+      "category": "Мебель",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "100000",
+      "contract_price": "100000",
+      "bidders": "1",
+      "score": 100,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 2
+    },
+    {
+      "id": "Z017",
+      "buyer": "Заказчик 2",
+      "supplier": "Поставщик 2А",
+      "category": "Мебель",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "160000",
+      "contract_price": "160000",
+      "bidders": "1",
+      "score": 100,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 2
+    },
+    {
+      "id": "Z021",
+      "buyer": "Заказчик 3",
+      "supplier": "Поставщик 3А",
+      "category": "Уборка",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "100000",
+      "contract_price": "100000",
+      "bidders": "1",
+      "score": 100,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 2
+    },
+    {
+      "id": "Z027",
+      "buyer": "Заказчик 3",
+      "supplier": "Поставщик 3А",
+      "category": "Уборка",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "160000",
+      "contract_price": "160000",
+      "bidders": "1",
+      "score": 100,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 2
+    },
+    {
+      "id": "Z031",
+      "buyer": "Заказчик 4",
+      "supplier": "Поставщик 4А",
+      "category": "Оборудование",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "100000",
+      "contract_price": "100000",
+      "bidders": "1",
+      "score": 100,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 2
+    },
+    {
+      "id": "Z037",
+      "buyer": "Заказчик 4",
+      "supplier": "Поставщик 4А",
+      "category": "Оборудование",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "160000",
+      "contract_price": "160000",
+      "bidders": "1",
+      "score": 100,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 2
+    },
+    {
+      "id": "Z003",
+      "buyer": "Заказчик 1",
+      "supplier": "Поставщик 1А",
+      "category": "Канцелярия",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "120000",
+      "contract_price": "120000",
+      "bidders": "1",
+      "score": 80,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 14
+    },
+    {
+      "id": "Z005",
+      "buyer": "Заказчик 1",
+      "supplier": "Поставщик 1А",
+      "category": "Канцелярия",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "140000",
+      "contract_price": "140000",
+      "bidders": "1",
+      "score": 80,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 14
+    },
+    {
+      "id": "Z013",
+      "buyer": "Заказчик 2",
+      "supplier": "Поставщик 2А",
+      "category": "Мебель",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "120000",
+      "contract_price": "120000",
+      "bidders": "1",
+      "score": 80,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 14
+    },
+    {
+      "id": "Z015",
+      "buyer": "Заказчик 2",
+      "supplier": "Поставщик 2А",
+      "category": "Мебель",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "140000",
+      "contract_price": "140000",
+      "bidders": "1",
+      "score": 80,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 14
+    },
+    {
+      "id": "Z023",
+      "buyer": "Заказчик 3",
+      "supplier": "Поставщик 3А",
+      "category": "Уборка",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "120000",
+      "contract_price": "120000",
+      "bidders": "1",
+      "score": 80,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 14
+    },
+    {
+      "id": "Z025",
+      "buyer": "Заказчик 3",
+      "supplier": "Поставщик 3А",
+      "category": "Уборка",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "140000",
+      "contract_price": "140000",
+      "bidders": "1",
+      "score": 80,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 14
+    },
+    {
+      "id": "Z033",
+      "buyer": "Заказчик 4",
+      "supplier": "Поставщик 4А",
+      "category": "Оборудование",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "120000",
+      "contract_price": "120000",
+      "bidders": "1",
+      "score": 80,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 14
+    },
+    {
+      "id": "Z035",
+      "buyer": "Заказчик 4",
+      "supplier": "Поставщик 4А",
+      "category": "Оборудование",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "140000",
+      "contract_price": "140000",
+      "bidders": "1",
+      "score": 80,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 14
+    },
+    {
+      "id": "Z004",
+      "buyer": "Заказчик 1",
+      "supplier": "Поставщик 1А",
+      "category": "Канцелярия",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "130000",
+      "contract_price": "117000",
+      "bidders": "3",
+      "score": 50,
+      "reasons": [
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 10,
+      "days": 2
+    },
+    {
+      "id": "Z009",
+      "buyer": "Заказчик 1",
+      "supplier": "Поставщик 1-8",
+      "category": "Канцелярия",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "180000",
+      "contract_price": "180000",
+      "bidders": "1",
+      "score": 50,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 14
+    },
+    {
+      "id": "Z014",
+      "buyer": "Заказчик 2",
+      "supplier": "Поставщик 2А",
+      "category": "Мебель",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "130000",
+      "contract_price": "117000",
+      "bidders": "3",
+      "score": 50,
+      "reasons": [
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 10,
+      "days": 2
+    },
+    {
+      "id": "Z019",
+      "buyer": "Заказчик 2",
+      "supplier": "Поставщик 2-8",
+      "category": "Мебель",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "180000",
+      "contract_price": "180000",
+      "bidders": "1",
+      "score": 50,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 14
+    },
+    {
+      "id": "Z024",
+      "buyer": "Заказчик 3",
+      "supplier": "Поставщик 3А",
+      "category": "Уборка",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "130000",
+      "contract_price": "117000",
+      "bidders": "3",
+      "score": 50,
+      "reasons": [
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 10,
+      "days": 2
+    },
+    {
+      "id": "Z029",
+      "buyer": "Заказчик 3",
+      "supplier": "Поставщик 3-8",
+      "category": "Уборка",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "180000",
+      "contract_price": "180000",
+      "bidders": "1",
+      "score": 50,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 14
+    },
+    {
+      "id": "Z034",
+      "buyer": "Заказчик 4",
+      "supplier": "Поставщик 4А",
+      "category": "Оборудование",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "130000",
+      "contract_price": "117000",
+      "bidders": "3",
+      "score": 50,
+      "reasons": [
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        },
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": true,
+      "savings": 10,
+      "days": 2
+    },
+    {
+      "id": "Z039",
+      "buyer": "Заказчик 4",
+      "supplier": "Поставщик 4-8",
+      "category": "Оборудование",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "180000",
+      "contract_price": "180000",
+      "bidders": "1",
+      "score": 50,
+      "reasons": [
+        {
+          "code": "R1",
+          "points": 30,
+          "text": "Один участник: bidders = 1"
+        },
+        {
+          "code": "R2",
+          "points": 20,
+          "text": "Снижение цены 0.00% меньше 1%"
+        }
+      ],
+      "review": true,
+      "savings": 0,
+      "days": 14
+    },
+    {
+      "id": "Z002",
+      "buyer": "Заказчик 1",
+      "supplier": "Поставщик 1А",
+      "category": "Канцелярия",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "110000",
+      "contract_price": "99000",
+      "bidders": "3",
+      "score": 30,
+      "reasons": [
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": false,
+      "savings": 10,
+      "days": 14
+    },
+    {
+      "id": "Z006",
+      "buyer": "Заказчик 1",
+      "supplier": "Поставщик 1А",
+      "category": "Канцелярия",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "150000",
+      "contract_price": "135000",
+      "bidders": "3",
+      "score": 30,
+      "reasons": [
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": false,
+      "savings": 10,
+      "days": 14
+    },
+    {
+      "id": "Z012",
+      "buyer": "Заказчик 2",
+      "supplier": "Поставщик 2А",
+      "category": "Мебель",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "110000",
+      "contract_price": "99000",
+      "bidders": "3",
+      "score": 30,
+      "reasons": [
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": false,
+      "savings": 10,
+      "days": 14
+    },
+    {
+      "id": "Z016",
+      "buyer": "Заказчик 2",
+      "supplier": "Поставщик 2А",
+      "category": "Мебель",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "150000",
+      "contract_price": "135000",
+      "bidders": "3",
+      "score": 30,
+      "reasons": [
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": false,
+      "savings": 10,
+      "days": 14
+    },
+    {
+      "id": "Z022",
+      "buyer": "Заказчик 3",
+      "supplier": "Поставщик 3А",
+      "category": "Уборка",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "110000",
+      "contract_price": "99000",
+      "bidders": "3",
+      "score": 30,
+      "reasons": [
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": false,
+      "savings": 10,
+      "days": 14
+    },
+    {
+      "id": "Z026",
+      "buyer": "Заказчик 3",
+      "supplier": "Поставщик 3А",
+      "category": "Уборка",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "150000",
+      "contract_price": "135000",
+      "bidders": "3",
+      "score": 30,
+      "reasons": [
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": false,
+      "savings": 10,
+      "days": 14
+    },
+    {
+      "id": "Z032",
+      "buyer": "Заказчик 4",
+      "supplier": "Поставщик 4А",
+      "category": "Оборудование",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "110000",
+      "contract_price": "99000",
+      "bidders": "3",
+      "score": 30,
+      "reasons": [
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": false,
+      "savings": 10,
+      "days": 14
+    },
+    {
+      "id": "Z036",
+      "buyer": "Заказчик 4",
+      "supplier": "Поставщик 4А",
+      "category": "Оборудование",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "150000",
+      "contract_price": "135000",
+      "bidders": "3",
+      "score": 30,
+      "reasons": [
+        {
+          "code": "R4",
+          "points": 30,
+          "text": "Поставщик получил 7 из 10 закупок заказчика (70%) в загруженном наборе"
+        }
+      ],
+      "review": false,
+      "savings": 10,
+      "days": 14
+    },
+    {
+      "id": "Z010",
+      "buyer": "Заказчик 1",
+      "supplier": "Поставщик 1-9",
+      "category": "Канцелярия",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "190000",
+      "contract_price": "171000",
+      "bidders": "3",
+      "score": 20,
+      "reasons": [
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        }
+      ],
+      "review": false,
+      "savings": 10,
+      "days": 2
+    },
+    {
+      "id": "Z020",
+      "buyer": "Заказчик 2",
+      "supplier": "Поставщик 2-9",
+      "category": "Мебель",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "190000",
+      "contract_price": "171000",
+      "bidders": "3",
+      "score": 20,
+      "reasons": [
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        }
+      ],
+      "review": false,
+      "savings": 10,
+      "days": 2
+    },
+    {
+      "id": "Z030",
+      "buyer": "Заказчик 3",
+      "supplier": "Поставщик 3-9",
+      "category": "Уборка",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "190000",
+      "contract_price": "171000",
+      "bidders": "3",
+      "score": 20,
+      "reasons": [
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        }
+      ],
+      "review": false,
+      "savings": 10,
+      "days": 2
+    },
+    {
+      "id": "Z040",
+      "buyer": "Заказчик 4",
+      "supplier": "Поставщик 4-9",
+      "category": "Оборудование",
+      "published": "2026-10-01",
+      "deadline": "2026-10-03",
+      "initial_price": "190000",
+      "contract_price": "171000",
+      "bidders": "3",
+      "score": 20,
+      "reasons": [
+        {
+          "code": "R3",
+          "points": 20,
+          "text": "Срок подачи 2 календарных дн. не больше 3"
+        }
+      ],
+      "review": false,
+      "savings": 10,
+      "days": 2
+    },
+    {
+      "id": "Z008",
+      "buyer": "Заказчик 1",
+      "supplier": "Поставщик 1-7",
+      "category": "Канцелярия",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "170000",
+      "contract_price": "153000",
+      "bidders": "3",
+      "score": 0,
+      "reasons": [],
+      "review": false,
+      "savings": 10,
+      "days": 14
+    },
+    {
+      "id": "Z018",
+      "buyer": "Заказчик 2",
+      "supplier": "Поставщик 2-7",
+      "category": "Мебель",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "170000",
+      "contract_price": "153000",
+      "bidders": "3",
+      "score": 0,
+      "reasons": [],
+      "review": false,
+      "savings": 10,
+      "days": 14
+    },
+    {
+      "id": "Z028",
+      "buyer": "Заказчик 3",
+      "supplier": "Поставщик 3-7",
+      "category": "Уборка",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "170000",
+      "contract_price": "153000",
+      "bidders": "3",
+      "score": 0,
+      "reasons": [],
+      "review": false,
+      "savings": 10,
+      "days": 14
+    },
+    {
+      "id": "Z038",
+      "buyer": "Заказчик 4",
+      "supplier": "Поставщик 4-7",
+      "category": "Оборудование",
+      "published": "2026-10-01",
+      "deadline": "2026-10-15",
+      "initial_price": "170000",
+      "contract_price": "153000",
+      "bidders": "3",
+      "score": 0,
+      "reasons": [],
+      "review": false,
+      "savings": 10,
+      "days": 14
+    }
+  ],
+  "decisions": {
+    "Z001": {
+      "status": "Запросить документы",
+      "comment": "Проверить обоснование единственного участника и повторяемость поставщика."
+    }
+  }
+}

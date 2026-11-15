@@ -1,0 +1,35 @@
+test_below_one_percent (test_engine.Tests.test_below_one_percent) ... ok
+test_below_threshold (test_engine.Tests.test_below_threshold) ... ok
+test_concentration_below (test_engine.Tests.test_concentration_below) ... ok
+test_concentration_boundary (test_engine.Tests.test_concentration_boundary) ... ok
+test_demo (test_engine.Tests.test_demo) ... ok
+test_duplicate (test_engine.Tests.test_duplicate) ... ok
+test_empty (test_engine.Tests.test_empty) ... ok
+test_four_days (test_engine.Tests.test_four_days) ... ok
+test_invalid_bidders (test_engine.Tests.test_invalid_bidders) ... ok
+test_invalid_price (test_engine.Tests.test_invalid_price) ... ok
+test_minimum_size (test_engine.Tests.test_minimum_size) ... ok
+test_missing (test_engine.Tests.test_missing) ... ok
+test_nan (test_engine.Tests.test_nan) ... ok
+test_negative_days (test_engine.Tests.test_negative_days) ... ok
+test_no_flags (test_engine.Tests.test_no_flags) ... ok
+test_one_bidder (test_engine.Tests.test_one_bidder) ... ok
+test_one_percent_boundary (test_engine.Tests.test_one_percent_boundary) ... ok
+test_reorder (test_engine.Tests.test_reorder) ... ok
+test_repeat (test_engine.Tests.test_repeat) ... ok
+test_three_days_boundary (test_engine.Tests.test_three_days_boundary) ... ok
+test_threshold_50 (test_engine.Tests.test_threshold_50) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.002s
+
+OK
+Локальный HTTP API: 2 из 2 проверок пройдены.
+POST /analyze: 40 записей, 24 сигнала, HTTP 200.
+Неполный CSV: HTTP 400 с объяснением ошибки.
+
+Среда проверки: Python 3.12, Linux. Сторонние зависимости прототипа отсутствуют.
+Автоматические проверки подтверждают логику заданных эвристик, а не качество выявления коррупции.
+Браузерный сценарий пройден на работающем локальном сервере в Chromium: загрузка 40 записей, 24 сигнала, фильтр, карточка Z001 (100 баллов), выбор «Запросить документы», ввод комментария, сохранение, экспорт JSON. Проверен фактический экспорт: решение и комментарий присутствуют.
+Demonstratsiya.mp4 содержит настоящую запись экрана при запуске server.py и выполнении сценария. Windows-запуск отдельно не проверялся.
+Данные синтетические. Precision/recall на реальных закупках и экономия рабочего времени не измерялись.
